@@ -1,4 +1,4 @@
-# 📚 Online Book Store SQL Project
+# 📚 Online Book Store SQL and Power BI Project
 
 ## 📖 About
 This project is a sample **Online Book Store Database** designed to practice SQL concepts.  
@@ -22,27 +22,21 @@ The database contains the following tables:
 | `orders` | Stores order header details |
 | `order_items` | Stores individual book items within an order |
 
----
+📊 Power BI Online Book Store Dashboard
 
-## 📂 Files in This Repository
-- **`online_bookstore.sql`** → Contains:
-  - `CREATE TABLE` scripts
-  - `INSERT` sample data
-  - Example `SELECT` queries
-- **`README.md`** → This documentation
-- *(Optional)* ER diagram or screenshots if you add them
 
----
+📌 Project Overview
+This project is an Interactive Power BI Dashboard built for an Online Book Store.
+It helps analyze sales performance, customer trends, inventory levels, and revenue distribution.
 
-## ⚡ Technologies
-- PostgreSQL or MySQL (scripts are generic and can be adapted)
-- SQL (DDL, DML, queries)
-- *(Optional)* Excel / Power BI for visualization
+✅ Built With: Power BI
+✅ Dataset: Sample sales & inventory dataset of an online bookstore
+✅ Goal: Provide management insights to drive better decisions.
 
----
-
-## 🚀 How to Run
-
-### 1️⃣ Create a new database
-```sql
-CREATE DATABASE online_bookstore;
+🚀 Features
+✔️ Sales overview (Revenue, Orders, Units Sold)
+✔️ Top-selling books and categories
+✔️ Region-wise & customer segmentation insights
+✔️ Monthly trends & Year-over-Year comparison
+✔️ Inventory and stock-level analysis
+✔️ Interactive filters and drill-downs
